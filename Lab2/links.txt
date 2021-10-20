@@ -1,0 +1,11 @@
+Диаграмма последовательности
+https://lucid.app/lucidchart/58b99e08-0579-47da-8f25-7a910dbc2395/edit?viewport_loc=-788%2C1%2C2761%2C1320%2C0_0&invitationId=inv_75359972-46db-441d-9ff9-3df36361d3fe
+
+Диаграмма активности
+https://lucid.app/lucidchart/7abf6b26-d602-451f-9ad2-94fa1523e241/edit?viewport_loc=-890%2C8%2C3620%2C1731%2C0_0&invitationId=inv_dd2db921-ac20-458f-a02e-d77382f734ab
+
+Use-case
+https://lucid.app/lucidchart/7a594cc1-7d84-46a4-9a18-1d4ad36eb0ac/edit?viewport_loc=54%2C-649%2C4407%2C2107%2C0_0&invitationId=inv_ed9a3ff8-83bb-48a0-b798-1f06bbc66bbd
+
+Диаграмма классов
+https://lucid.app/lucidchart/9c389e14-8b45-4d3b-a2c9-1c69135b1cf6/edit?viewport_loc=-155%2C-108%2C2627%2C1256%2C0_0&invitationId=inv_1b142593-8eaa-4ca8-aa0d-da8943f90fdb
